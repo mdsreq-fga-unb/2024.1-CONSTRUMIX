@@ -4,7 +4,7 @@
 | ---------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 08/04/2024 | 1\.0 | Criação do documento | Carlos Eduardo; Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Friedrich |
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Friedrich |
-| 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto | Carlos Eduardo; Júlia Takaki; Samara Letícia|
+| 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto, critérios de replanejamento, lições aprendidas e material sobre processos ESW | Carlos Eduardo; Júlia Takaki; Samara Letícia, Paulo Henrique, Suanmita Vitória, Eric Rabelo|
 
 ## 1. **Visão do Produto e Projeto**
 
@@ -139,7 +139,11 @@ Tabela 4 – Comunicação do grupo
 
 ### 4.1 **Unidade 1**
 
-Acompanhamento Regular: Realize reuniões de acompanhamento diárias ou regulares para verificar o progresso das tarefas da sprint. Isso ajuda a identificar atrasos com antecedência.
+Durante a realização das atividades da Unidade 1, tivemos pequenos conflitos dentro da equipe por conta da gestão de tempo e prioridades entre os membros. Aprendemos que a comunicação aberta e a definição clara de expectativas são fundamentais para evitar conflitos e garantir que todos estejam alinhados com os objetivos do projeto. Além disso, percebemos a importância de estabelecer metas claras e prazos realistas para garantir que as atividades sejam concluídas dentro do cronograma estabelecido.
+
+Reconhecemos que conflitos inevitavelmente surgirão em uma equipe, mas devemos abordá-los de maneira construtiva e colaborativa. A comunicação aberta e honesta é fundamental para resolver conflitos de forma eficaz e manter um ambiente de trabalho positivo. Isso inclui promover uma cultura de respeito mútuo, abertura para diferentes perspectivas e buscar soluções colaborativas.
+
+Durante a reunião com o cliente, houve um erro na forma que abordamos o cliente, fazendo perguntas que não agregariam no desenvolvimento do projeto adequadamente. Diante destes problemas, aprendemos a ser menos invasivos e mais objetivos nas perguntas, para que o cliente se sinta mais confortável e seguro em responder.
 
 ## 5.0 **Referências Bibliográficas**
 

@@ -4,7 +4,6 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
 
 <center>
     <img src="images/construmix.png" width="200">
-    <p>Logo da loja</p>
 </center>
 
 ## Equipe

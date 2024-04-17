@@ -40,6 +40,7 @@ extra_css:
 
 nav:
   - Início: index.md
+  - Processos de Desenvolvimento de Software: processosDesinvolvimento.md
   - Visão do Produto e Projeto: documentoVisao.md
 
 markdown_extensions:

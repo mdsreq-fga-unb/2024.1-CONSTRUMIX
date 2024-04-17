@@ -1,4 +1,4 @@
-# 2023-2-POLLUX
+# CONSTRUMIX
 
 ## MkDocs
 - [Link para o gitpages](https://mdsreq-fga-unb.github.io/2024.1-CONSTRUMIX/)

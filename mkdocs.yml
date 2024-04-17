@@ -40,7 +40,6 @@ extra_css:
 
 nav:
   - Início: index.md
-  - Equipe e Personagens: historiaEquipe.md
   - Visão do Produto e Projeto: documentoVisao.md
 
 markdown_extensions:

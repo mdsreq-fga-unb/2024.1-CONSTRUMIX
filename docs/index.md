@@ -61,7 +61,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
 ---
 
 <h1 style="text-align: center;"><b>DataDiggers</b></h1>
-<link rel="stylesheet" href="css/bootstrap.css" crossorigin="anonymous">
+<link rel="stylesheet" href="css/style.css" crossorigin="anonymous">
 
 ## História e personagens
 
@@ -104,7 +104,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
             </p>
         </div>
         <div class="col-sm">
-            <img style="width:70%; border-radius: 50%;" src="images/req1.png">
+            <img style="width:70%; border-radius: 50%;" class="img-personagens"  src="images/req1.png">
         </div>
     </div>
 </div>
@@ -124,7 +124,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
             </p>
         </div>
         <div class="col-sm">
-            <img style="width:70%; border-radius: 50%;" src="images/req2.png">
+            <img style="width:70%; border-radius: 50%;" class="img-personagens"  src="images/req2.png">
         </div>
     </div>
 </div>
@@ -142,7 +142,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
             </p>
         </div>
         <div class="col-sm">
-            <img style="width:70%; border-radius: 50%;" src="images/req3.png">
+            <img style="width:70%; border-radius: 50%;" class="img-personagens"  src="images/req3.png">
         </div>
     </div>
 </div>
@@ -162,7 +162,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
             </p>
         </div>
         <div class="col-sm">
-            <img style="width:70%; border-radius: 50%;" src="images/req4.png">
+            <img style="width:70%; border-radius: 50%;" class="img-personagens"  src="images/req4.png">
         </div>
     </div>
 </div>
@@ -181,7 +181,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
             </p>
         </div>
         <div class="col-sm">
-            <img style="width:70%; border-radius: 50%;" src="images/req5.png">
+            <img style="width:70%; border-radius: 50%;" class="img-personagens"  src="images/req5.png">
         </div>
     </div>
 </div>
@@ -199,7 +199,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
             </p>
         </div>
         <div class="col-sm">
-            <img style="width:70%; border-radius: 50%;" src="images/req6.png">
+            <img style="width:70%; border-radius: 50%;" class="img-personagens"  src="images/req6.png">
         </div>
     </div>
 </div>
@@ -217,7 +217,7 @@ O produto proposto é App que busca resolver os problemas de gestão de estoque 
             </p>
         </div>
         <div class="col-sm">
-            <img style="width:70%; border-radius: 50%;" src="images/req7.png">
+            <img style="width:70%; border-radius: 50%;" class="img-personagens"  src="images/req7.png">
         </div>
     </div>
 </div>

@@ -2,7 +2,7 @@
 
 | **Data**   | **Versão** | **Descrição**                                                                         | **Autor**                                                                 |
 | ---------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 08/04/2024 | 1\.0 | Criação do documento | Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Friedrich |
+| 08/04/2024 | 1\.0 | Criação do documento | Carlos Eduardo; Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Friedrich |
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Friedrich |
 
 ## 1. **Visão do Produto e Projeto**

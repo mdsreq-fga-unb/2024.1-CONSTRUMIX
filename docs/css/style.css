@@ -8,8 +8,9 @@
 }
 
 .col-sm{
-    width: 32%;
+    width: 30%;
     display: inline-block;
+    text-align: center;
 }
 
 @media(max-width: 800px) {
@@ -23,7 +24,7 @@
     }
     
     .col-sm{
-        width: 90%;
+        width: 100%;
         display: block;
         text-align: center;
     }

@@ -4,6 +4,7 @@
 | ---------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 08/04/2024 | 1\.0 | Criação do documento | Carlos Eduardo; Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Friedrich |
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Friedrich |
+| 17/04/2024 | 3\.0 | Criação do Gerenciamento de Riscos | Júlia Takaki; Samara Letícia |
 
 ## 1. **Visão do Produto e Projeto**
 
@@ -59,7 +60,7 @@ Tabela 2 – Tabela de Organização
 |Dono do Produto|Atualizar o escopo do produto, organizar o escopo das sprints, validar as entregas|_Wolfgang_|<p>Eric</p> <p>Paulo</p>|
 |Cliente|Fornecimento de requisitos e validação da aplicação.|--|--|
 
-### 2.3 **Planejamento das Fases e/ou Iterações do Projeto**
+### 2.2 **Planejamento das Fases e/ou Iterações do Projeto**
 
 Tabela 3 – Planejamento e Sprint
 
@@ -100,7 +101,7 @@ Tabela 3 – Planejamento e Sprint
 | Sprint 11 | Realizar testes unitários na aplicação. Deploy da aplicação.                                                                                                                                | 21/11/2023  | 28/11/2023 | Teste da aplicação, correção e possíveis melhorias.                                                                                                                      | Todos        | Em aberto |
 | Sprint 12 | Realizar testes unitários na aplicação. Entrega do produto.                                                                                                                                 | 28/11/2023  | 05/12/2023 | Teste da aplicação, correção e entrega.                                                                                                                                  | Todos        | Em aberto |
 
-### 2.4 **Matriz de Comunicação**
+### 2.3 **Matriz de Comunicação**
 
 Tabela 4 – Comunicação do grupo
 
@@ -111,15 +112,18 @@ Tabela 4 – Comunicação do grupo
 |Encerramento e revisão da sprint (Review)                                |Equipe           |Semanal        |Ata de reunião                      |
 |Comunicação da situação do projeto                                       |Monitor          |Semanal        |Relatório de situação do projeto    |
 
-### 2.5 **Gerenciamento de Riscos**
+### 2.4 **Gerenciamento de Riscos**
 
-**Desistência de algum aluno da equipe:** Este risco pode ser crítico, pois ....
+| Risco                                                     | Consequência                                                | Estratégia | Resposta                                                    |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------------------------------- |
+| Desistência da Disciplina | Ter um integrante a menos no grupo significa que os outros integrantes vão ter que trabalhar mais para suprir as atividades daquele integrante. | Mitigar | Manter boa comunicação no time e oferecer ajuda para a disciplina quando um dos membros precisar, para evitar que ele saia da disciplina. |
+| Falta de Comunicação com StakeHolders | A falta de comunicação com o Stakeholder pode gerar mal entendidos, na insatisfação do Stakeholder e no desalinhamento do projeto. | Evitar | Realizar reuniões periodicamente com o Stakeholder para que ele esteja ciente de tudo que está se passando no projeto. |
+| Conciliar horários | Um mal gerenciamento de horários pode prejudicar o desempenho dos membros em outras matérias da faculdade ou em outros compromissos que eles tenham. | Mitigar | Planejamento antecipado das tarefas, ter prazos bem estabelecidos, respeitar os horários de estudo e de dedicação a disciplina. |
+| Escopo do projeto mal definido ou em constante mudança. | Pode acarretar no desalinhamento do projeto, e prejudicar o resultado final do projeto. | Mitigar | Realizar uma análise detalhada dos requisitos do projeto antes do início do desenvolvimento. Utilizar metodologias ágeis que permitam a adaptação a mudanças nos requisitos ao longo do tempo. |
+| Subestimação de prazos e recursos. | O mal planejamento de prazos, entregar e recursos pode gerar uma sobrecarga de trabalho em um curto prazo de tempo. | Evitar | Trabalhar respeitando os prazos estabelecidos da disciplina. |
 
-- Mitigação: ... 
-- Contingência: Realizar a divisão de tarefas entre a equipe afim de .
 
-
-### 2.6 **Critérios de Replanejamento**
+### 2.5 **Critérios de Replanejamento**
 
 - Mudanças nos Requisitos: Se houver mudanças nos requisitos do projeto que impactem
   - escopo, prazo ou recursos necessários, deverá ser replanejado paraajustar o projeto de acordo com as novas especificações.

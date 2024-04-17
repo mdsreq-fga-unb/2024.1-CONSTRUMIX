@@ -1,0 +1,33 @@
+.row{
+    display: inline-block;
+}
+
+.col-7{
+    width: 65%;
+    display: inline-block;
+}
+
+.col-sm{
+    width: 32%;
+    display: inline-block;
+}
+
+@media(max-width: 800px) {
+    .row{
+        display: block;
+    }
+    
+    .col-7{
+        width: 100%;
+        display: block;
+    }
+    
+    .col-sm{
+        width: 90%;
+        display: block;
+        text-align: center;
+    }
+    .img-personagens{
+        width: 50%!important;
+    }
+}

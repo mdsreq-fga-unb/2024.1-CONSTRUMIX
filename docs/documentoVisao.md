@@ -4,7 +4,7 @@
 | ---------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 08/04/2024 | 1\.0 | Criação do documento | Carlos Eduardo; Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Friedrich |
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Friedrich |
-| 17/04/2024 | 3\.0 | Criação do Gerenciamento de Riscos | Júlia Takaki; Samara Letícia |
+| 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto | Carlos Eduardo; Júlia Takaki; Samara Letícia|
 
 ## 1. **Visão do Produto e Projeto**
 
@@ -68,38 +68,18 @@ Tabela 3 – Planejamento e Sprint
 |-|-|-|-|-|-|-|
 | | | | | | | |
 |Sprint 0 | Definição do projeto.| 01/04| 08/04 | Escolha do tema e definição do escopo do projeto.| TODOS | 100% |
-|Sprint 1 |Revisão dos fundamentos de Engenharia de Software. |08/04 |15/04 | |TODOS | |
-|Sprint 2 | Definição do processo de ER.|15/04 |22/04 | |TODOS | |
+|Sprint 1 |Revisão dos fundamentos de Engenharia de Software. |08/04 |15/04 | Apresentação sobre os processos e fundamentos de engenharia de software |TODOS | 100% |
+|Sprint 2 | Definição do processo de ER.|15/04 |22/04 | Visão do produto e projeto |TODOS | |
 |Sprint 3 |Elaboração do backlog do produto. |22/04 |29/04 | SAFe e User Story.|TODOS | |
-|Sprint 4 | Definição do MVP.|29/04 |06/05 | |TODOS | |
+|Sprint 4 | Definição do MVP.|29/04 |06/05 | Documento de escopo do MVP |TODOS | |
 |Sprint 5 |Refinamento do backlog. |06/05 |13/05 |Definição de critérios de aceitação. |TODOS | |
 |Sprint 6 | User Story Mapping.|13/05 |20/05 |Protótipo de telas. |TODOS | |
-|Sprint 7 | Modelagem de casos de uso.|20/05 |27/05 | |TODOS | |
-|Sprint 8 | Desenvolvimento do MVP.|27/05 |03/06 | |TODOS | |
+|Sprint 7 | Modelagem de casos de uso.|20/05 |27/05 | Diagrama de casos de uso |TODOS | |
+|Sprint 8 | Desenvolvimento do MVP.|27/05 |03/06 | Protótipos do MVP |TODOS | |
 |Sprint 9 |Desenvolvimento do MVP. |03/06 |10/06 |Deploy |TODOS | |
-|Sprint 10 |Testes de aceitação. |10/06 |17/06 | |TODOS | |
-|Sprint 11 |Correções e ajustes finais no software. |17/06 |24/06 | |TODOS | |
-|Sprint 12 |Preparação final para entrega do projeto.|24/06 |01/07 | |TODOS | |
-
-
-
-
-
-| Sprint    | Produto (Entrega)                                                                                                                                                                           | Data Início | Data Fim   | Entregáveis                                                                                                                                                              | Responsáveis | Conclusão |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------- |
-| Sprint 0  | Definição do produto.                                                                                                                                                                       | 05/09/2023  | 12/09/2023 | Escolha do tema e definição do escopo do projeto.                                                                                                                        | Todos        | 100%      |
-| Sprint 1  | Definição de tecnologias e treinamento das equipes.                                                                                                                                         | 12/09/2023  | 19/09/2023 | Linguagens e frameworks identificados. Conhecimento básico da equipe nas tecnologias.                                                                                    | Todos        | 100%      |
-| Sprint 2  | Protótipo de telas no Figma.                                                                                                                                                                | 19/09/2023  | 25/09/2023 | Todas as telas do software modeladas no Figma.                                                                                                                           | Todos        | 100%      |
-| Sprint 3  | Codificação das telas Login e Cadastro. Criação do banco de dados.                                                                                                                          | 26/09/2023  | 03/10/2023 | Estrutura das telas de login e cadastro.                                                                                                                                 | Todos        | 100%      |
-| Sprint 4  | CRUD do usuário. Alimentar base de dados com professores. Lógica de autenticação. Início da documentação no MkDocs.                                                                         | 03/10/2023  | 10/10/2023 | Sistema CRUD para usuários. Base de dados atualizada e populada com informações de professores.                                                                          | Todos        | 100%      |
-| Sprint 5  | Lógica de registro e cadastro do usuário. Desenvolvimento da página inicial. Integração do Front e Back no login e cadastro. Importar banco de dados no backend.                            | 10/10/2023  | 17/10/2023 | Implementação do sistema CRUD de usuários, base de dados atualizada com informações de professores, lógica de autenticação e início da documentação no MkDocs.           | Todos        | 100%      |
-| Sprint 6  | Otimizar conexão com banco de dados. Desenvolver barra de pesquisa para busca de professores. Melhorar usabilidade de login/cadastro. Implementar API para busca de professores.            | 17/10/2023  | 24/10/2023 | Otimização da conexão com o banco de dados, criação da barra de pesquisa, aprimoramento da usabilidade no login/cadastro e implementação da API de busca de professores. | Todos        | 75%       |
-| Sprint 7  | Desenvolver componente de card dos professores. Realizar webscraping para coleta de dados. Implementar API de dados dos professores. Implementar lógica de busca de professores no cliente. | 24/10/2023  | 31/10/2023 | Melhora na aparência da tela de busca. Complemento de informações para o banco de dados. Lógica de busca completa.                                                       | Todos        | 100%      |
-| Sprint 8  | Desenvolver cabeçalho com informações do professor. Implementar redirecionamento após autenticação bem-sucedida.                                                                            | 31/10/2023  | 07/11/2023 | Desenvolvimento da tela de perfil dos professores, melhora na autenticação e redirecionamento.                                                                           | Todos        | 100%      |
-| Sprint 9  | Criar pasta para registro de avaliações no banco de dados. Realizar cálculo de nota do professor no Backend. Implementar funcionalidade de avaliação.                                       | 07/11/2023  | 14/11/2023 | Implementação de funcionalidades referentes à avaliação dos professores.                                                                                                 | Todos        | Em aberto |
-| Sprint 10 | Implementar página de matérias filtrada pela engenharia. Implementar página de professores que lecionam cada matéria.                                                                       | 14/11/2023  | 21/11/2023 | Implementação e melhorias em telas.                                                                                                                                      | Todos        | Em aberto |
-| Sprint 11 | Realizar testes unitários na aplicação. Deploy da aplicação.                                                                                                                                | 21/11/2023  | 28/11/2023 | Teste da aplicação, correção e possíveis melhorias.                                                                                                                      | Todos        | Em aberto |
-| Sprint 12 | Realizar testes unitários na aplicação. Entrega do produto.                                                                                                                                 | 28/11/2023  | 05/12/2023 | Teste da aplicação, correção e entrega.                                                                                                                                  | Todos        | Em aberto |
+|Sprint 10 |Testes de aceitação. |10/06 |17/06 | Planos de teste e casos de teste |TODOS | |
+|Sprint 11 |Correções e ajustes finais no software. |17/06 |24/06 | Escopo final |TODOS | |
+|Sprint 12 |Preparação final para entrega do projeto.|24/06 |01/07 | Software final |TODOS | |
 
 ### 2.3 **Matriz de Comunicação**
 
@@ -125,12 +105,17 @@ Tabela 4 – Comunicação do grupo
 
 ### 2.5 **Critérios de Replanejamento**
 
-- Mudanças nos Requisitos: Se houver mudanças nos requisitos do projeto que impactem
-  - escopo, prazo ou recursos necessários, deverá ser replanejado paraajustar o projeto de acordo com as novas especificações.
-- Riscos do Projeto: Os critérios de replanejamento estarão fortemente associados aos riscos identificados no projeto. Se um risco se materializar ou se tornar mais provável,
-  - replanejamento será necessário para diminuir seus impactos e manter o projeto no caminho certo. De acordo com a definição de prioridades da equipe (Segurança > Usabilidade > Interface), em caso de risco à segurança da aplicação como todo, o replanejamento deverá ser feito imediatamente e a solução tratada como prioridade máxima; casos de usabilidade serão encarados de acordo com seu grau de importância para que o MVP seja alcançado e tratados, em primeiro momento, como débito técnico,
-  - que pode evoluir para um replanejamento caso o tempo estimado para contenção do risco ultrapasse a duração total de 1 (uma) sprint (7 dias). Riscos de interface serão tratados como débito técnico e serão resolvidos sem necessidade de replanejamento.
-- Atrasos: Se o projeto sofrer atrasos que possam comprometer o cronograma, será necessário replanejar para reavaliar e ajustar as datas de entrega.
+ - Desvios Significativos de Cronograma: Se o projeto estiver significativamente atrás do cronograma planejado, pode ser necessário replanejar para ajustar as datas de entrega, revisar as dependências entre as tarefas e realocar recursos para recuperar o tempo perdido.
+
+ - Mudanças nos Requisitos ou Escopo: Se houver mudanças significativas nos requisitos do projeto ou no escopo do trabalho, pode ser necessário replanejar para acomodar essas alterações. Isso pode envolver ajustes nos prazos, recursos e custos do projeto.
+
+ - Riscos Emergentes: Se novos riscos surgirem durante a execução do projeto que não foram previstos no plano original, pode ser necessário replanejar para mitigar esses riscos. Isso pode incluir a implementação de novas estratégias de mitigação de riscos ou a realocação de recursos para lidar com os riscos identificados.
+
+ - Mudanças nos Recursos Disponíveis: Se houver mudanças nos recursos disponíveis para o projeto, como restrições orçamentárias ou indisponibilidade de recursos-chave, pode ser necessário replanejar para ajustar o escopo, cronograma e alocação de recursos do projeto.
+
+ - Feedback das Partes Interessadas: Se as partes interessadas fornecerem feedback significativo durante a execução do projeto que indique a necessidade de ajustes no plano, pode ser necessário replanejar para incorporar esse feedback e garantir a satisfação das partes interessadas.
+
+ - Desempenho do Projeto: Se o desempenho do projeto não atender às expectativas em termos de qualidade, custo ou prazo, pode ser necessário replanejar para identificar e corrigir quaisquer deficiências no plano original e melhorar o desempenho geral do projeto.
 
 ## 3.0 **Processo de Desenvolvimento de Software**
 

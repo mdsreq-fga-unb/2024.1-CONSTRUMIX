@@ -63,6 +63,27 @@ Tabela 2 – Tabela de Organização
 
 Tabela 3 – Planejamento e Sprint
 
+| **_Sprint_**|**_Produto (entrega)_**|**_Data Inicio_**|**_Data Fim_** |**_Entregaveis_** |**_Responsáveis_**|**_Conclusão_**|
+|-|-|-|-|-|-|-|
+| | | | | | | |
+|Sprint 0 | Definição do projeto.| 01/04| 08/04 | Escolha do tema e definição do escopo do projeto.| TODOS | 100% |
+|Sprint 1 |Revisão dos fundamentos de Engenharia de Software. |08/04 |15/04 | |TODOS | |
+|Sprint 2 | Definição do processo de ER.|15/04 |22/04 | |TODOS | |
+|Sprint 3 |Elaboração do backlog do produto. |22/04 |29/04 | SAFe e User Story.|TODOS | |
+|Sprint 4 | Definição do MVP.|29/04 |06/05 | |TODOS | |
+|Sprint 5 |Refinamento do backlog. |06/05 |13/05 |Definição de critérios de aceitação. |TODOS | |
+|Sprint 6 | User Story Mapping.|13/05 |20/05 |Protótipo de telas. |TODOS | |
+|Sprint 7 | Modelagem de casos de uso.|20/05 |27/05 | |TODOS | |
+|Sprint 8 | Desenvolvimento do MVP.|27/05 |03/06 | |TODOS | |
+|Sprint 9 |Desenvolvimento do MVP. |03/06 |10/06 |Deploy |TODOS | |
+|Sprint 10 |Testes de aceitação. |10/06 |17/06 | |TODOS | |
+|Sprint 11 |Correções e ajustes finais no software. |17/06 |24/06 | |TODOS | |
+|Sprint 12 |Preparação final para entrega do projeto.|24/06 |01/07 | |TODOS | |
+
+
+
+
+
 | Sprint    | Produto (Entrega)                                                                                                                                                                           | Data Início | Data Fim   | Entregáveis                                                                                                                                                              | Responsáveis | Conclusão |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | --------- |
 | Sprint 0  | Definição do produto.                                                                                                                                                                       | 05/09/2023  | 12/09/2023 | Escolha do tema e definição do escopo do projeto.                                                                                                                        | Todos        | 100%      |

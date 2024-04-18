@@ -42,6 +42,7 @@ nav:
   - Início: index.md
   - Processos de Desenvolvimento de Software: processosDesinvolvimento.md
   - Visão do Produto e Projeto: documentoVisao.md
+  - Entregas: entregas.md
 
 markdown_extensions:
   - attr_list

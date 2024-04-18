@@ -4,7 +4,7 @@
 | ---------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 08/04/2024 | 1\.0 | Criação do documento | Carlos Eduardo; Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Friedrich |
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Friedrich |
-| 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto, critérios de replanejamento, lições aprendidas e material sobre processos ESW | Carlos Eduardo; Júlia Takaki; Samara Letícia, Paulo Henrique, Suanmita Vitória, Eric Rabelo|
+| 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto, critérios de replanejamento, lições aprendidas e material sobre processos ESW | Carlos Eduardo; Júlia Takaki; Samara Letícia, Paulo Henrique, Sunamita Vitória, Eric Rabelo|
 
 ## 1. **Visão do Produto e Projeto**
 
@@ -16,9 +16,6 @@ Foi identificado que o cliente está utilizando planilhas e, por vezes, até pap
 ![diagrama de ishikawa](images/diagramaIshikawa.png){width=1000}
 
 <p align="center"> Imagem 1 - Diagrama de Ishikawa </p>
-
-
-- **Solução de Software Proposta**: Nosso software representa uma aplicação web que oferece uma abordagem prática e em tempo real para pesquisar e avaliar os professores da FGA. A proposta nasce em um contexto de ineficácia da avaliação e consulta de outras avaliações dos docentes da FGA, como pode ser contemplado no diagrama de ishikawa acima. O propósito central desta ferramenta é criar um ambiente seguroe anônimo onde estudantes, tanto novos quanto veteranos, possam compartilhar suas opiniões sobre os professores e as disciplinas ministradas na Faculdade do Gama (FGA).
 
 ### 1.2 **Declaração de Posição do Produto**
 
@@ -66,7 +63,6 @@ Tabela 3 – Planejamento e Sprint
 
 | **_Sprint_**|**_Produto (entrega)_**|**_Data Inicio_**|**_Data Fim_** |**_Entregaveis_** |**_Responsáveis_**|**_Conclusão_**|
 |-|-|-|-|-|-|-|
-| | | | | | | |
 |Sprint 0 | Definição do projeto.| 01/04| 08/04 | Escolha do tema e definição do escopo do projeto.| TODOS | 100% |
 |Sprint 1 |Revisão dos fundamentos de Engenharia de Software. |08/04 |15/04 | Apresentação sobre os processos e fundamentos de engenharia de software |TODOS | 100% |
 |Sprint 2 | Definição do processo de ER.|15/04 |22/04 | Visão do produto e projeto |TODOS | |
@@ -121,7 +117,7 @@ Tabela 4 – Comunicação do grupo
 
 ![Diagrama de Processo de Desinvolvimento de Software](images/diagramaProcesso.png){width=1000}
 
-<p align="center"> Imagem 2 - Diagrama de Processo de Desinvolvimento de Software </p>
+<p align="center"> Imagem 2 - Diagrama de Processo de Desenvolvimento de Software </p>
 
 Tabela 4 – Comunicação do grupo
 
@@ -146,7 +142,5 @@ Reconhecemos que conflitos inevitavelmente surgirão em uma equipe, mas devemos 
 Durante a reunião com o cliente, houve um erro na forma que abordamos o cliente, fazendo perguntas que não agregariam no desenvolvimento do projeto adequadamente. Diante destes problemas, aprendemos a ser menos invasivos e mais objetivos nas perguntas, para que o cliente se sinta mais confortável e seguro em responder.
 
 ## 5.0 **Referências Bibliográficas**
-
-PMI - PROJECT MANAGEMENT INSTITUTE. Guia PMBOK®: Um Guia do Conhecimento em Gerenciamento de Projetos. 6. ed. Newtown Square, Pensilvânia: PMI, 2017.
 
 Audy, Jorge. Scrum 360: Um guia completo e prático de agilidade. São Paulo: Casa do Código, 2015.

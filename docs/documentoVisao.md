@@ -5,6 +5,7 @@
 | 08/04/2024 | 1\.0 | Criação do documento | Carlos Eduardo; Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Stein |
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Stein |
 | 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto, critérios de replanejamento, lições aprendidas e material sobre processos ESW | Carlos Eduardo; Júlia Takaki; Samara Letícia, Paulo Henrique, Suanmita Vitória, Eric Rabelo| Wolfgang  Stein |
+| 28/04/2024 | 2\.2 | Corrigindo o Processo de Desenvolvimento de Software | Paulo Henrique |
 
 ## 1. **Visão do Produto e Projeto**
 
@@ -90,6 +91,8 @@ Tabela 4 – Comunicação do grupo
 
 ### 2.4 **Gerenciamento de Riscos**
 
+Tabela 5 – Gerenciamento de Riscos
+
 | Risco                                                     | Consequência                                                | Estratégia | Resposta                                                    |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------- | --------------------------------------------------------------------------------------- |
 | Desistência da Disciplina | Ter um integrante a menos no grupo significa que os outros integrantes vão ter que trabalhar mais para suprir as atividades daquele integrante. | Mitigar | Manter boa comunicação no time e oferecer ajuda para a disciplina quando um dos membros precisar, para evitar que ele saia da disciplina. |
@@ -115,11 +118,154 @@ Tabela 4 – Comunicação do grupo
 
 ## 3.0 **Processo de Desenvolvimento de Software**
 
-![Diagrama de Processo de Desinvolvimento de Software](images/diagramaProcesso.png){width=1000}
+### **Metodologias**
+<center>
 
-<p align="center"> Imagem 2 - Diagrama de Processo de Desenvolvimento de Software </p>
+Tabela 6 – Metodologias
 
-Tabela 4 – Comunicação do grupo
+|Abordagem        |Ciclo de vida           |Processo  de desenvolvimento |
+|-----------------|------------------------|-----------------------------|
+|Dirigida a plano |Iterativo e Incremental |Espiral                      |
+
+</center>
+
+No processo de desenvolvimento de um produto de software, é de suma importância ter em mente que o êxito do projeto não se restringe a apenas codificação, sendo essencial identificar as características produto para haver a possibilidade de definir as metodologias utilizadas ao longo do seu desenvolvimento.
+
+A grande diferença entre uma abordagem dirigida a plano para uma ágil é a limitação que cada projeto possui. Para o CONSTRUMIX, as necessidades definidas pelo cliente culminou na escolha de uma abordagem dirigida a plano, visto que, inicialmente, seus requisitos estão bem definidos e concisos com relação ao desenvolvimento do projeto. 
+
+### **Análise pelo framework Gupta**
+
+Baseado no Framework proposto por Gupta para a escolha dos processos, respondemos uma série de questões sobre os tópicos abordados pelo Framework para definir o modelo de desenvolvimento que será utilizado ao longo do projeto.
+
+#### **1. Característica dos Requisitos**
+<center>
+
+Tabela 7 – Características dos Requisitos
+
+| Pergunta                                                             | Resposta       |
+| -------------------------------------------------------------------- | -------------- |
+| Os requisitos são fáceis de entender e definir?                      | Sim            |
+| Nós mudamos os requisitos com bastante frequência?                   | Não            |
+| Nós podemos definir os requisitos ao início de cada ciclo?           | Sim            |
+| Os requisitos estão indicando um sistema complexo para se construir? | Não            |
+
+</center>
+
+Na conclusão do primeiro modelo de Gupta acerca das características dos requisitos, notamos que o projeto não tem uma complexidade grande na sua construção e que os requisitos são estáveis e bem definidos, além de que não há planos de mudança de requisitos ao longo do projeto.
+
+#### **2. Status da Equipe de Desenvolvimento**
+<center>
+
+Tabela 8 – Status da Equipe de Desenvolvimento
+
+| Pergunta                                               | Resposta       |
+| ------------------------------------------------------ | -------------- |
+| Pouca experienca em projetos similares                 | Sim            |
+| Pouca experiência em tecnologias similares             | Sim            |
+| Pouca experiência com as ferramentas que serão usadas? | Não            |
+| Disponibilidade para treinamento, se necessário        | Sim            |
+
+</center>
+Na conclusão do segundo modelo de Gupta acerca do status da equipe de desenvolvimento, os membros da equipe possui pouca experiência em projetos similares e familiaridade com as ferramentas que serão utilizadas, além de que, caso seja necessário, haja o treinamento de uma tecnologia e/ou ferramenta específica.
+
+#### **3. Envolvimento do Usuário**
+<center>
+
+Tabela 9 – Envolvimento do Usuário
+
+| Pergunta                                                                    | Resposta       |
+| --------------------------------------------------------------------------- | -------------- |
+| Envolvimento dos usuários                                                   | Não            |
+| Participação limitada dos usuários                                          | Não            |
+| Usuário não tem experiência anterior em participação em projetos similares? | Sim            |
+| Usuário são especialistas no domínio do problema?                           | Sim            |
+
+</center>
+
+Na conclusão do terceiro modelo de Gupta acerca do envolvimento do usuário, nosso cliente não conseguirá estar presente em todas as fases de desenvolvimento do projeto e, consequentemente, sua participação será limitada. Porém, o cliente possuí domínio sobre o problema a ser resolvido, podendo ajudar, mesmo que pouco, no desenvolvimento do produto.
+
+#### **4. Tipo de Projeto e Risco Associado**
+<center>
+
+Tabela 10 – Tipo de Projeto e Risco Associado
+
+| Pergunta                                                   | Nossa resposta |
+| ---------------------------------------------------------- | -------------- |
+| O projeto é melhoria de um sistema existente?              | Não            |
+| O financiamento está estável para o projeto?               | Não            |
+| Requisitos de alta confiabilidade?                         | Sim            |
+| Cronograma do projeto é apertado?                          | Sim            |
+| Uso de componentes reutilizáveis?                          | Não            |
+| Os recursos (Tempo, dinheiro, pessoas etc) estão escassos? | Sim            |
+
+</center>
+
+Concluindo o quarto e último modelo de Gupta acerca do tipo de projeto e risco associado, temos que o projeto será uma aplicação nova em que os requisitos passam uma boa confiança para desenvolver. Porém, é necessário fazer uma gestão eficiente do tempo, visto que seu cronograma é apertado e os recursos são escassos.
+
+Com base nas perguntas feitas em cada tópico, decidimos por escolher o processo de desenvolvimento Espiral, visto que, à priori, os requisitos do projeto encontram-se bem definido e estáveis para ser utilizado ao longo de todo seu desenvolvimento, utilizando o ciclo de vida iterativo e o contato com o cliente, mesmo que limitado, será de grande ajuda para estruturar o projeto. Entretanto, sendo necessário tomar um certo cuidado com o cronograma e com os possíveis riscos que o projeto poderá gerar.
+
+### **Facetas da Engenharia de Requisitos**
+
+A faceta do processo de engenharia de requisitos que mais se adequa ao projeto e como ele seguirá ao longo do desenvolvimento, será o **Processo Contratual**. Visto que utilizaremos uma abordagem dirigida a plano.
+<center>
+
+![Faceta da Engenharia de Requisitos](images/facetaER.png){width=700}
+
+Imagem 2 - Faceta da Engenharia de Requisitos
+
+|Alvo               |Propósito   |Tempo |
+|-------------------|------------|------|
+|Cliente Específico |Prescritivo |Linear|
+
+Tabela 11 – Faceta da Engenharia de Requisitos
+
+</center>
+
+#### **1. Atividades do Processo da Engenharia de Requisitos**
+
+As atividades do processo de engenharia de requisitos são essenciais para garantir que os requisitos do projeto sejam bem definidos, compreendidos e validados. Isso inclui a identificação dos requisitos do cliente, a análise e documentação dos requisitos, a validação dos requisitos com o cliente e a garantia de que os requisitos atendam às necessidades do cliente. 
+
+Tabela 12 – Atividades do Processo de Engenharia de Requisitos
+
+|Etapa                                  | Descrição                                                                                |
+|---------------------------------------|------------------------------------------------------------------------------------------|
+|Viabilidade                            |Realizar um estudo para validar a pertinência do sistema para a loja.                     |
+|Descoberta e Análise de Requisitos     |Conduzir reuniões com as partes interessadas para compreender as necessidades do negócio. |
+|Especificação de Requisitos            |Especificar os requisitos do sistema por meio de um modelo, diagrama ou documento escrito.|
+|Validação de Requisitos                |Obter feedback do cliente com relação aos requisitos do sistema.                          |
+
+As atividades do processo de engenharia de requisitos serão repetidas várias vezes à medida que o sistema é desenvolvido.
+
+#### **2. Requisitos e Planejamento**
+
+Tabela 13 – Requisitos e Planejamento **(Arrumar essa tabela)**
+
+|Etapa                                  |Método             |Entrega     |
+|---------------------------------------|-------------------|------------|
+|Elicitação e Descoberta                |                   |            |
+|Análise e Consenso                     |                   |            |
+|Declaração                             |                   |            |
+|Representação                          |                   |            |
+|Verificação e Validação                |                   |            |
+|Organização e Atualização              |                   |            |
+
+
+
+### ***Processo de Desenvolvimento Espiral***
+
+O processo de desenvolvimento em espiral é uma abordagem iterativa e incremental que combina elementos de desenvolvimento em cascata com prototipação. Essa metodologia foi proposta por Barry Boehm em 1986 e tem sido amplamente utilizada na indústria de software. Consiste em ciclos de atividades, onde cada ciclo representa uma iteração. Cada ciclo tem quatro principais fases: determinação de objetivos, análise de riscos, desenvolvimento e planejamento. Essas fases são executadas de forma iterativa, permitindo o refinamento e aprimoramento do software ao longo do processo.
+
+<center>
+
+![Processo de Desenvolvimento Espiral](images/espiral.png){width=700}
+
+<p align="center"> Imagem 3 - Processo de Desenvolvimento Espiral </p>
+
+</center>
+
+Uma das principais vantagens do desenvolvimento de software em espiral é que ele incorpora a análise de riscos desde o início. Isso permite que os riscos sejam identificados e mitigados de forma proativa, reduzindo a possibilidade de problemas graves no produto final. Além disso, essa abordagem permite a adaptação às mudanças durante o processo de desenvolvimento, garantindo maior flexibilidade.
+
+Tabela 14 – Atividades do Processo de Desenvolvimento Espiral **(Arrumar essa tabela)**
 
 |Nome da Atividade |Método |Ferramenta |Entrega | 
 |-|-|-|-|

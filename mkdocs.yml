@@ -35,8 +35,11 @@ theme:
         icon: material/toggle-switch
       primary: red
 
+  logo: images/brasao.png
+  favicon: images/brasao.png
+
 extra_css:
-  - stylesheets/extra.css
+  - css/style.css
 
 nav:
   - Início: index.md

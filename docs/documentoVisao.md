@@ -11,7 +11,7 @@
 
 ### 1.1 **Problema**
 
-Foi identificado que o cliente está utilizando planilhas e, por vezes, até papel para realizar o gerenciamento de estoque de sua empresa. O uso de planilhas e registros em papel é propenso a erros, tais como duplicação e perda de dados, além de demandar um tempo significativo para atualização. A falta de um sistema centralizado dificulta o rastreamento do histórico de movimentação de estoque, como entradas e saídas, e também não oferece recursos de geração de relatórios e extratos, o que pode dificultar análises de desempenho do estoque e a identificação de tendências ou problemas.
+Foi identificado que o cliente está utilizando planilhas e, por vezes, até papel para realizar o gerenciamento de estoque de sua empresa. O método atual é propenso a erros, tais como duplicação e perda de dados, além de demandar um tempo significativo para atualização. O uso de planilhas e anotações em papel dificulta o rastreamento do histórico de movimentação de estoque, como entradas e saídas, dificultando a elaboração de relatórios, análises e identificação de tendências ou problemas.
 
   
 ![diagrama de ishikawa](images/diagramaIshikawa.png){width=1000}

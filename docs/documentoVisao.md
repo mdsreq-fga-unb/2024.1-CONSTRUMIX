@@ -6,6 +6,7 @@
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Stein |
 | 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto, critérios de replanejamento, lições aprendidas e material sobre processos ESW | Carlos Eduardo; Júlia Takaki; Samara Letícia, Paulo Henrique, Suanmita Vitória, Eric Rabelo| Wolfgang  Stein |
 | 28/04/2024 | 2\.2 | Corrigindo o Processo de Desenvolvimento de Software | Paulo Henrique |
+| 29/04/2024 | 2\.3 | Corrigindo o tópico "1.1 Problema" | Carlos Eduardo Rodrigues |
 
 ## 1. **Visão do Produto e Projeto**
 

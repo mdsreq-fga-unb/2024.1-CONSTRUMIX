@@ -5,8 +5,8 @@
 | 08/04/2024 | 1\.0 | Criação do documento | Carlos Eduardo; Eric Rabelo;  Paulo Henrique; Samara Letícia; Sunamita Vitória;  Wolfgang Stein |
 | 16/04/2024 | 2\.0 | Preenchendo seções de visão geral do projeto e de lições aprendidas| Eric Rabelo;  Paulo Henrique; Wolfgang Stein |
 | 17/04/2024 | 2\.1 | Criação do Gerenciamento de Riscos e planejamento das fases e/ou Iterações do Projeto, critérios de replanejamento, lições aprendidas e material sobre processos ESW | Carlos Eduardo; Júlia Takaki; Samara Letícia, Paulo Henrique, Suanmita Vitória, Eric Rabelo| Wolfgang  Stein |
-| 28/04/2024 | 2\.2 | Corrigindo o Processo de Desenvolvimento de Software | Paulo Henrique |
-| 29/04/2024 | 2\.3 | Corrigindo o tópico "1.1 Problema" | Carlos Eduardo Rodrigues |
+| 02/05/2024 | 2\.2 | Corrigindo o Processo de Desenvolvimento de Software, Diagrama de Ishikawa e Declaração de Posicão do Produto | Paulo Henrique; Carlos Eduardo; Eric Rabelo |
+
 
 ## 1. **Visão do Produto e Projeto**
 

@@ -21,17 +21,20 @@ Foi identificado que o cliente está utilizando planilhas e, por vezes, até pap
 
 ### 1.2 **Declaração de Posição do Produto**
 
-Tabela 1 - Visão do Produto
+O produto proposto se trata de um Aplicativo Desktop que visa resolver o problema de gestão de estoque da loja de materiais de construção "Construmix". Atualmente, o cliente utiliza planilhas excel e anotações físicas para fazer o controle do estoque da loja, o que demanda muito tempo e esforço. O público alvo do DataMix são os funcionários da loja de construção Construmix que utilizarão a plataforma para simplificar e agilizar o gerenciamento de estoque de produtos e materiais.
 
-| Para:          | Construmix.                                                                                                                                                                       |
+A solução proposta visa eliminar a necessidade de utilizar planilhas Excel, oferecendo funcionalidades para acompanhar o fluxo de entrada e saída de itens, verificar disponibilidade de produtos e realizar o cadastro de itens. Ao automatizar esses processos, o DataMix economiza tempo e esforço para os funcionários da Construmix, minimizando erros humanos e otimizando a eficiência operacional da loja. 
+
+Tabela 1 - Declaração de Posição do Produto
+
+| |Descrição                                                                                                                                                                    |
 | -------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Para:    | Loja de material de construção "Construmix".                                                                                                                                                         |
 | Quem:          | Equipe DataDiggers.                                                                                                                                                               |
-| O Data Mix:    | É um app.                                                                                                                                                                         |
-| Que:           | Auxilia na organização de estoque do cliente.                                                                                                                                     |
-| Ao contrário:  | De ter que fazer o controle de estoque em planilhas de Excel.                                                                                                                     |
-| Nosso produto: | Terá uma pegada maior a interação humano computador voltado aos desejos do cliente, de tal forma a satisfazer as suas necessidades de controle, mantendo a integridade dos dados. |
-
-O produto proposto é um App que busca resolver os problemas de gestão de estoque e controle de vendas de uma loja de materiais de construção. Atualmente, o cliente utiliza planilhas excel para fazer o controle do estoque da loja, o que,além de não garantir a integridade dos dados, também consome muito tempo e esforço. O público alvo do DataMix serão os funcionários da loja de construção CONSTRUMIX. Nossa aplicação busca automatizar o controle do estoque dos produtos e fornecer uma informação detalhada do fluxo de caixa da loja.
+| O DataMix:    | É um aplicativo desktop.                                                                                                                                                       |
+| Que:           | Gerencia o estoque da loja de contrução Construmix.                                                                                                                                     |
+| Ao contrário:  | De fazer o controle de estoque através de anotações físicas e planilhas.                                                                                                                     |
+| Nosso produto: |  Oferece funcionalidades para acompanhar o fluxo de entrada e saída de itens, verificar disponibilidade de produtos e realizar o cadastro de itens. |
 
 ### 1.3 **Objetivos do Produto**
 
